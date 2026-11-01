@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TheDuskyDawn</h1>
-<h3 align="center">Final Year CSE (AI/ML) | Building Intelligent Systems & Full-Stack Applications | Python Developer from India</h3>
+<h3 align="center">Computer Science Engineer (AI/ML) | Building Intelligent Systems & Full-Stack Applications | Python Developer from India</h3>
 
 
 

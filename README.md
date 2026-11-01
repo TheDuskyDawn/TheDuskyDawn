@@ -11,7 +11,7 @@
 - 🎓 Final Year B.Tech CSE student specializing in Artificial Intelligence & Machine Learning  
 - 🚀 SIH finalist of 2024 . Build a 2D game APP. 
 - 🤖 Comfortable with Linux environments and full-stack application development
-- 💻 Intrested in AI and ML
+- 💻 Interested in AI and ML
 - 💡 Passionate about building end-to-end intelligent solutions combining ML with real-world applications
 - Love Automating tasks through ai agents.
 - 📚 Continuously learning and exploring advanced AI techniques

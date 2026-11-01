@@ -9,7 +9,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Final Year B.Tech CSE student specializing in Artificial Intelligence & Machine Learning  
-- 🚀 SIH finalist of 2024 . Build a 2D game APP. 
+- 🚀 SIH finalist of 2024 . Build a 2D pixel art game in Unity for Water Conservation.
 - 🤖 Comfortable with Linux environments and full-stack application development
 - 💻 Interested in AI and ML
 - 💡 Passionate about building end-to-end intelligent solutions combining ML with real-world applications
